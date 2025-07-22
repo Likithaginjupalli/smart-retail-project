@@ -1,3 +1,4 @@
+![Smart Retail Dashboard](./smart-retail-banner.png)
 # 🛍️ Smart Retail Data Pipeline & Dashboard
 
 This project simulates a **retail sales pipeline** using CSV data, PostgreSQL for warehousing, and **Streamlit** for visual analytics.
